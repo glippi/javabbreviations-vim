@@ -3,10 +3,10 @@
 Author:  Gabriele Lippi <https://github.com/glippi>
 
 |introduction|            Introduction and Feature Summary
-|public constructor|             public.constructor
-|test method|            test.method
-|setup method|            setup.method
-|teardown method|           teardown.method
+|public.constructor|             public.constructor
+|test.method|            test.method
+|setup.method|            setup.method
+|teardown.method|           teardown.method
 
 INTRODUCTION					*introduction*
 The goal of this plugin is to offer some mappings and abbreviations that are often used in the classical workflow with IntelliJ. Obviously, it can't be considered a complete mapping of all the shortcut of IntelliJ in Vim; keep in mind that Vim is not an IDE and it's a waste of time trying to replicate all the features of an IDE. That said, it's ok to optimize the workflow with some useful shortcuts ;)
@@ -38,3 +38,5 @@ mapping <leader>td:
   @AfterEach
   public teardown() {
   }
+
+vim:tw=78:ts=8:ft=help:norl:
