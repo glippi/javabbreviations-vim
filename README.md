@@ -1,5 +1,5 @@
 # :coffee: javabbreviations-vim
-:coffee:  Vim mappings and abbreviations for Java Development, heavily inspired by IntelliJ 
+Vim mappings and abbreviations for Java Development, heavily inspired by IntelliJ 
 
 
 ## :warning: work in progress:
